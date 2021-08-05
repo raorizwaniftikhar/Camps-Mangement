@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Student_Info" value="name:SID;datatype:int,name:CID;datatype:string,name:RNUM;datatype:string,name:Full_Name;datatype:string,name:UID;datatype:string,name:Status;datatype:string,name:L1;datatype:string,name:L2;datatype:string,name:L3;datatype:string,name:L4;datatype:string,name:L5;datatype:string,name:L6;datatype:string,name:L7;datatype:string" />
+	<infoitem key="UD_Lecture1" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture2" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture3" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture4" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture5" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture6" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Lecture7" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Teacher1" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher2" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher3" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher4" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher5" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher6" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Teacher7" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+</info>

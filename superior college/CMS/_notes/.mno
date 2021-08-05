@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+	<infoitem key="MM_URL_Count" value="6" />
+	<infoitem key="MM_URL1" value="requsername" />
+	<infoitem key="MM_Session1" value="MM_Username" />
+	<infoitem key="MM_Session_Count" value="2" />
+	<infoitem key="MM_Form_Count" value="1" />
+	<infoitem key="MM_URL2" value="ERR" />
+	<infoitem key="MM_URL3" value="UID" />
+	<infoitem key="MM_Session2" value="SID" />
+	<infoitem key="MM_URL4" value="L" />
+	<infoitem key="MM_URL5" value="lid" />
+	<infoitem key="MM_Form1" value="class" />
+	<infoitem key="MM_URL6" value="id" />
+</info>

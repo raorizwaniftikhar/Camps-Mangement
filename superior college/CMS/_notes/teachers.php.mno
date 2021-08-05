@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Teacher_Info" value="name:TID;datatype:int,name:Full_Name;datatype:string,name:UID;datatype:string,name:Designation;datatype:string" />
+	<infoitem key="UD_Lectures" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+</info>

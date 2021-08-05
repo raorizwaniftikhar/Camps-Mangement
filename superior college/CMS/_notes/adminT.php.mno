@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Classes" value="name:CID;datatype:string,name:Session;datatype:string,name:Semester;datatype:string,name:Subjects;datatype:string" />
+	<infoitem key="UD_Class2" value="name:CID;datatype:string,name:Session;datatype:string,name:Semester;datatype:string,name:Subjects;datatype:string" />
+</info>

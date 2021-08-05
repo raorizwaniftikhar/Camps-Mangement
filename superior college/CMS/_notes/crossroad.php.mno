@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_User_Info" value="name:SID;datatype:int,name:CID;datatype:string,name:RNUM;datatype:string,name:Full_Name;datatype:string,name:UID;datatype:string,name:Status;datatype:string,name:L1;datatype:string,name:L2;datatype:string,name:L3;datatype:string,name:L4;datatype:string,name:L5;datatype:string,name:L6;datatype:string,name:L7;datatype:string" />
+</info>

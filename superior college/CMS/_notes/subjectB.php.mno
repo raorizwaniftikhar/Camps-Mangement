@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Subject_Info" value="name:LID;datatype:int,name:CID;datatype:string,name:TID;datatype:int,name:Name;datatype:string,name:Continue;datatype:string,name:Type;datatype:string,name:Start;datatype:date,name:End;datatype:date,name:Time;datatype:string,name:Room;datatype:string,name:Duration;datatype:string" />
+	<infoitem key="UD_Assignments" value="name:AID;datatype:int,name:Title;datatype:string,name:Type;datatype:string,name:Marks;datatype:int,name:Description;datatype:string,name:File;datatype:string,name:LID;datatype:int,name:Against;datatype:int,name:SID;datatype:int" />
+</info>
